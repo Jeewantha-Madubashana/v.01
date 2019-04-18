@@ -34,3 +34,6 @@ This repository contains The assignment was given by Kongcepts Pvt. Ltd.
     }
   ]
 }
+
+Above JSON data locate in following link
+https://api.myjson.com/bins/mq3r4.json
